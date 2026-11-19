@@ -8,9 +8,11 @@
 ![Версія гри](https://img.shields.io/badge/перевірена_версія_гри-0.6-168fff?style=for-the-badge)
 ![Платформа](https://img.shields.io/badge/платформа-Windows-1f6feb?style=for-the-badge&logo=windows)
 
-### [⬇️ Завантажити перевірений інсталятор v0.6.8](https://github.com/Evgeniy955/Games-translate/releases/download/acr-v0.6.8/AC-Rally-UA-Installer-0.6.8.exe)
+<p><strong>⚠️ Переклад <code>0.6-UA-r2</code> сумісний із грою 0.6. Поточна гра 0.7 змінила файли локалізації; інсталятор заблокує встановлення до виходу оновленого перекладу.</strong></p>
 
-[Переглянути майбутні релізи в цьому репозиторії](https://github.com/Evgeniy955/AssettoCorsaRally-UA/releases)
+### [⬇️ Завантажити інсталятор v0.6.15 для гри 0.6](https://github.com/Evgeniy955/AssettoCorsaRally-UA/releases/download/v0.6.15/AC-Rally-UA-Installer-0.6.15.exe)
+
+[Усі релізи](https://github.com/Evgeniy955/AssettoCorsaRally-UA/releases) · [Попередній архів v0.6.8](https://github.com/Evgeniy955/Games-translate/releases/tag/acr-v0.6.8)
 
 </div>
 
@@ -45,7 +47,7 @@
 |---|---:|
 | Assetto Corsa Rally | 0.6, перевірено на Steam build `25170642` |
 | Український переклад | `0.6-UA-r2` |
-| Останній опублікований інсталятор | `0.6.8` |
+| Останній опублікований інсталятор | `0.6.15` |
 | Операційна система | Windows |
 | Мовний слот у грі | Simplified Chinese, у перекладеному меню — «Українська» |
 
@@ -59,11 +61,11 @@
 4. Натисніть **«ВСТАНОВИТИ ПЕРЕКЛАД»**.
 5. Запустіть гру. Для українського тексту використовується мовний слот, який інсталятор налаштовує як «Українська».
 
-Інсталятор перевіряє сумісність ресурсів і зберігає резервну копію оригінального архіву перед змінами. SHA-256 опублікованого EXE `0.6.8`: `91C7E84AC091BF6EEEAD2829A71DFE31DA8CB2AF6895AE790B7F9B34A91495E3`.
+Інсталятор перевіряє сумісність ресурсів і зберігає резервну копію оригінального архіву перед змінами. Кнопка **«i»** відкриває інструкцію користування та журнал дій. SHA-256 EXE `0.6.15`: `7D56F0CCA9337AA48F62549A9B0F39789FEBC4B3F6871429C272ECAE009DE74D`.
 
 ## Оновлення локалізації
 
-Кнопка **«ОНОВЛЕННЯ»** в інсталяторі перевіряє наявність новішого EXE. Поки в цьому репозиторії немає опублікованого релізу, останній перевірений інсталятор доступний у [попередньому архіві](https://github.com/Evgeniy955/Games-translate/releases/tag/acr-v0.6.8). Майбутні перевірені версії публікуватимуться в [Releases цього репозиторію](https://github.com/Evgeniy955/AssettoCorsaRally-UA/releases).
+Кнопка **«ОНОВЛЕННЯ»** в інсталяторі перевіряє [релізи цього репозиторію](https://github.com/Evgeniy955/AssettoCorsaRally-UA/releases) і завантажує новіший EXE після перевірки його розміру та SHA-256. Попередні версії зберігаються в [архіві Games-translate](https://github.com/Evgeniy955/Games-translate/releases/tag/acr-v0.6.8).
 
 ## Відновлення оригінальних файлів
 
