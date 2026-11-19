@@ -1,0 +1,7 @@
+*.pak
+*.ucas
+*.utoc
+*.sav
+*.bak
+*.download*
+*.exe
